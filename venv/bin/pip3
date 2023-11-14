@@ -1,4 +1,4 @@
-#!/Users/navanhassan/PycharmProjects/Hangman/venv/bin/python
+#!/home/navan/Projects/Hangman/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
